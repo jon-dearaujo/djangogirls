@@ -1,1 +1,1 @@
-Django project created from Django Grils tutorial ~> https://tutorial.djangogirls.org/en
+Django project created from Django Girls tutorial ~> https://tutorial.djangogirls.org/en
