@@ -1,0 +1,1 @@
+Django project created from Django Grils tutorial ~> https://tutorial.djangogirls.org/en
